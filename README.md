@@ -9,3 +9,5 @@ Capacitive sensor reaction reaction game written in 8051 assembly using the AT89
 4. The LCD displays the points for each player.
 5. The first player to reach 5 points wins the game!
 6. Other Contributers: Colin Pereira, Mohamed Salah
+
+This is the link of the full demonstration video: https://www.youtube.com/watch?v=x-Ijh5LYcp4&ab_channel=ChangWoody
